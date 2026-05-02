@@ -6,13 +6,8 @@ body {
 
 .top-nav {
     background: #cbdcff;
-    text-align: center;
     padding: 10px;
-}
-.top-nav a {
-    margin: 0 15px;
-    text-decoration: none;
-    color: black;
+    text-align: center;
 }
 
 .page-title {
